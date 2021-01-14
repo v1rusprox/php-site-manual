@@ -6,3 +6,6 @@ https://snipp.ru/php
 парсеры
 
 https://xdan.ru/categories/parsers?start=5
+
+
+обучение http://www.php.su/lessons/?lesson_1
